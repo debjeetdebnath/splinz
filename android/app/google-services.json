@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "557400515480",
+    "project_id": "splinz",
+    "storage_bucket": "splinz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557400515480:android:881b1632af16daf00b81ed",
+        "android_client_info": {
+          "package_name": "com.imdebjeet.splinz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557400515480-l7evugejepq2gfo531rlohre7eah85h9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgke8xsTBQSS_Ip6DOV8pQbPSuXrHCT0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557400515480-l7evugejepq2gfo531rlohre7eah85h9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
